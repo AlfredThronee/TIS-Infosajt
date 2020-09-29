@@ -1,2 +1,1 @@
-# TIS-Infosajt
-TIS Infosajt
+Ett skolprojekt där vi skapar en informationssida för vår skola.
